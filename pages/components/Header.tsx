@@ -13,7 +13,7 @@ export default function Header() {
           layout="fill"
           className="w-2/4 bg-slate-900 h-2/3"
         /> */}
-            <img src={"./img/logo-bookmark.svg"} alt="img" />
+            <img src={"/img/logo-bookmark.svg"} alt="img" />
           </div>
 
           <ul className="flex  justify-around gap-12 items-center uppercase ">

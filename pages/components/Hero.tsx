@@ -3,28 +3,28 @@ import Img from "./Img";
 import Heading from "../Heading";
 import Button from "./Button";
 import Para from "./Para";
-const obj: [
+const obj = [
   {
-    head: "A Simple Bookmark Manager";
-    para: "A clean and simple interface to organize your favourite websites. Open a new browser tab and see your sites load instantly. Try it for free.";
-    img: "hero-bg.png";
-    btn1: "Get it on Chrome";
-    btn2: "Get it on Firefox";
+    head: "A Simple Bookmark Manager",
+    para: "A clean and simple interface to organize your favourite websites. Open a new browser tab and see your sites load instantly. Try it for free.",
+    img: "hero-bg.png",
+    btn1: "Get it on Chrome",
+    btn2: "Get it on Firefox",
   },
   {
-    head: "A Simple Bookmark Manager";
-    para: "A clean and simple interface to organize your favourite websites. Open a new browser tab and see your sites load instantly. Try it for free.";
-    img: "hero-bg.png";
-    btn1: "Get it on Chrome";
-    btn2: "Get it on Firefox";
+    head: "A Simple Bookmark Manager",
+    para: "A clean and simple interface to organize your favourite websites. Open a new browser tab and see your sites load instantly. Try it for free.",
+    img: "hero-bg.png",
+    btn1: "Get it on Chrome",
+    btn2: "Get it on Firefox",
   },
   {
-    head: "A Simple Bookmark Manager";
-    para: "A clean and simple interface to organize your favourite websites. Open a new browser tab and see your sites load instantly. Try it for free.";
-    img: "hero-bg.png";
-    btn1: "Get it on Chrome";
-    btn2: "Get it on Firefox";
-  }
+    head: "A Simple Bookmark Manager",
+    para: "A clean and simple interface to organize your favourite websites. Open a new browser tab and see your sites load instantly. Try it for free.",
+    img: "hero-bg.png",
+    btn1: "Get it on Chrome",
+    btn2: "Get it on Firefox",
+  },
 ];
 
 const Hero = () => {
